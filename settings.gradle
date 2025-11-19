@@ -1,0 +1,2 @@
+rootProject.name = 'JsPlsyer'
+include ':app'
